@@ -2,7 +2,7 @@
 ## what i'm learning + working on:
 * diploma in computer programming
 * certificate in scientific computing with python 
-* drainGuessr game website
+* drainGuessr website
 * OOP design patterns
 * networking basics
 * portfolio website
@@ -10,4 +10,4 @@
 
 
 ## what i'm looking for:
-* 4-8 month Co-op position
+* 4-8 month co-op position
